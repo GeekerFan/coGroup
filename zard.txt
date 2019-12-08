@@ -48,6 +48,9 @@ ZARD的坂井泉水，除了为ZARD组合的歌曲作词以外，还经常为DEE
 youfanFu1992修改：
 
 编辑本地库文件      edit by nwpu-fred
+编辑本地库文件    edit by youfanFu1992
+
+
 主要是调整文件对应的格式。
 
 
